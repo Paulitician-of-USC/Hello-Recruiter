@@ -1,6 +1,6 @@
 -----
 
-# Hello, Recruiter\! 👋
+# Hello, Recruiter\! 
 
 Welcome to my GitHub profile\! I created this repository specifically as a landing page for recruiters and hiring managers like you. If you've found your way here, it's likely because you're exploring my work, or that you have a few minutes to look at my Resume. This document serves as a guide to help you navigate my projects and understand my passion for engineering.
 
@@ -8,13 +8,13 @@ Welcome to my GitHub profile\! I created this repository specifically as a landi
 
 ## 1\. Who Am I?
 
-I am Paul L., and I am a USC Aerospace Engineering Undergraduate with a passion for designing and building complete electronic systems from the ground up. My GitHub is a portfolio of most of my personal projects, showcasing my skills in both hardware design and firmware development.
+I am Paul, and I am a USC Aerospace Engineering Undergraduate with a passion for designing and building complete electronic systems from the ground up. My GitHub is a portfolio of most of my personal projects, showcasing my skills in both hardware design and firmware development.
 
 Here you will find a collection of projects that demonstrate my expertise in:
 
-  * **PCB Design & Layout:** Creating robust and functional printed circuit boards for various applications.
+  * **PCB Design & Layout:** Creating (somewhat) functional printed circuit boards for various applications.
   * **Embedded Systems Programming:** Writing firmware to bring my hardware to life.
-  * **System Integration:** Ensuring that hardware and software work together seamlessly.
+  * **System Integration:** Ensuring that hardware and software work together.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/paul-lototsky-787171276/) or contact me via email at [paullototsky2005@gmai.com].
 
@@ -31,9 +31,9 @@ I am driven by a curiosity to understand how things work and a desire to create 
 
 -----
 
-## 3\. How to Read My Repositories (Not right now, I'm still working on it)
+## 3\. How to Read My Repositories
 
-I structure my projects to be clear and easy to navigate. Most of my project repositories follow this simple format:
+I structure my projects to be clear and easy to navigate. Most of my project repositories will follow this simple format:
 
 ```
 project-repository-name/
@@ -58,7 +58,7 @@ project-repository-name/
 ```
 
   * **`/HW` (Hardware):** This directory contains all files related to the printed circuit board. You will find the **Altium Designer** source files (`.SchDoc`, `.PcbDoc`), Gerber files for manufacturing, and a bill of materials (BOM).
-  * **`/SW` (Software):** This directory holds the firmware for the project. The code is typically a **STM32CubeIDE** project, written in C. The `.ioc` file can be used to view the pinout and peripheral configuration in STM32CubeMX.
+  * **`/SW` (Software):** This directory holds the firmware for the project. The code is typically a **STM32CubeIDE** project, written in C. The `.ioc` file can be viewed to see the pinout and peripheral configuration in STM32CubeMX.
 
 Each repository's main `README.md` file will provide a high-level overview of the project, its purpose, and key features.
 
@@ -66,11 +66,11 @@ Each repository's main `README.md` file will provide a high-level overview of th
 
 ## 4\. Why I Do These Projects
 
-These projects are more than just lines of code or traces on a board; they are a reflection of my commitment to continuous learning and my passion for engineering.
+These projects are more than just lines of code or traces on a board; they reflect my commitment to continuous learning and my passion for engineering.
 
-  * **To Solve Problems:** Many of my projects start with a simple question: "Could I build a device that does X?" I enjoy the challenge of designing a solution from scratch.
+  * **To Solve Problems:** Many projects start with a simple question: "Could I build a device that does X?" I enjoy the challenge of designing a solution from scratch.
   * **To Learn New Technologies:** Personal projects are the perfect playground for exploring new components, software libraries, and design techniques that I may not encounter in a professional or academic setting.
-  * **To Build a Portfolio:** I believe the best way to demonstrate my skills is to show my work. Each repository is a case study of my ability to manage a project from concept to completion.
+  * **To Build a Portfolio: ** The best way to demonstrate my skills is to show my work. Each repository is a case study of my ability to manage a project from concept to completion.
 
 -----
 
@@ -80,11 +80,11 @@ Here are some answers to questions you might have while exploring my work.
 
 **Q: Why do you primarily use STM32 microcontrollers and Altium Designer?**
 
-> **A:** I chose to specialize in the STM32 ecosystem due to its powerful and versatile range of ARM Cortex-M microcontrollers, extensive documentation, and excellent development tools like STM32CubeIDE. For PCB design, I use Altium Designer as it is an industry-standard tool that provides powerful features for complex, professional-grade designs. TLDR: USCRPL uses STM32s with MBed RTOS, and Altium Designer, which means I do to.
+> **A:** I chose to specialize in the STM32 ecosystem due to its powerful and versatile range of ARM Cortex-M microcontrollers, extensive documentation, and excellent development tools like STM32CubeIDE. For PCB design, I use Altium Designer, an industry-standard tool that provides powerful features for complex, professional-grade designs. TLDR: USCRPL uses STM32s with MBed RTOS and Altium Designer, which I do too.
 
-**Q: I don't have Altium Designer. How can I view your hardware files?**
+**Q: I don't have Altium Designer. Do you know how I can view your hardware files?**
 
-> **A:** No problem\! I've included a PDF of the schematic and Gerber files in the `/HW` folder of each project. You can use any free online Gerber viewer to inspect the PCB layers.
+> **A:** No problem\! I've included a PDF of the schematic and Gerber files in each project's `/HW` folder. You can use any free online Gerber viewer to inspect the PCB layers.
 
 **Q: Are your projects "finished"?**
 
@@ -92,8 +92,8 @@ Here are some answers to questions you might have while exploring my work.
 
 **Q: Can I ask you about a specific design choice in one of your projects?**
 
-> **A:** Absolutely\! I would be happy to discuss my engineering decisions, the trade-offs I considered, and the lessons I learned. Please feel free to reach out.
+> **A:** Absolutely\! I would happily discuss my engineering decisions, the trade-offs I considered, and the lessons I learned. Please feel free to reach out.
 
 -----
 
-Thank you for taking the time to review my work. I look forward to the possibility of discussing how my skills and passion can contribute to your team.
+Thank you for taking the time to review my work. I look forward to discussing how my skills and passion can contribute to your team.
