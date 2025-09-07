@@ -4,6 +4,8 @@
 
 Welcome to my GitHub profile\! I created this repository specifically as a landing page for recruiters and hiring managers like you. If you've found your way here, it's likely because you're exploring my work, or that you have a few minutes to look at my Resume. This document serves as a guide to help you navigate my projects and understand my passion for engineering.
 
+Note: I do not upload any ITAR or potentially ITAR projects onto my GitHub. If you would like to know more about these projects, please contact me (information below). 
+
 -----
 
 ## 1\. Who Am I?
